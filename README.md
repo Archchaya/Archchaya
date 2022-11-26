@@ -21,3 +21,8 @@
 
 ### Postman Student Expert
 <blockquote align="left" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/Ty-6YpKpQK2z3TqtzopbjA"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/NyZjR5cDRD6aOZ4GnLy58g/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>November 25, 2022</p></blockquote>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Archchaya&show_icons=true&locale=en&layout=compact" alt="thanutheepa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Archchaya&show_icons=true&locale=en" alt="thanutheepa" /></p>
