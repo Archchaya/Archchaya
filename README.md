@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Archchaya Uthayakumar</h1>
-<h3 align="center">I'm a passionate, self-motivated, and hardworking individual who excels at collaborating with others to reach a common goal. I also work well under pressure and to rigorous deadlines. My goal is to be a part of a prestigious organization where I can develop and shape my skills, talents, and knowledge to help the organization grow and improve my skills and abilities in the profession I've selected, as well as to regularly update my knowledge and skills and make a difference.</h3>
-
- <h3 align="center"> 🌱I’m currently learning cucumber,selenium and cypress</h3>
+<h3 align>I'm a passionate, self-motivated, and hardworking individual who excels at collaborating with others to reach a common goal. I also work well under pressure and to rigorous deadlines.</h3>
+<h3> I am currently working at myDigitalOffice-Intern QA</h3>
+ <h3 align> I have experencied in, </h3>
+<ul>
+ <li>manual testing (smoke, regression, UI, and API testing)</li>
+<li>defect reporting, tracking, and verification</li>
+ <li>test case planning, and test case designing and maintenance - Agile </li>
+<li>test automation</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
