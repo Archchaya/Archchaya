@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/archchaya uthayakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archchaya uthayakumar" height="30" width="40" /></a>
-<a href="https://medium.com/@archchaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@archchaya" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/archchaya uthayakumar](https://www.linkedin.com/in/archchaya-uthayakumar-7a9a06197/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archchaya uthayakumar" height="30" width="40" /></a>
+<a href="[https://medium.com/@archchaya](https://github.com/Archchaya)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@archchaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
