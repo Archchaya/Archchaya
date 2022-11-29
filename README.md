@@ -3,7 +3,7 @@
 <h3> I am currently working at myDigitalOffice-Intern QA</h3>
  <h3 align> I have experencied in, </h3>
 <ul>
- <li>manual testing (smoke, regression, UI, and API testing)</li>
+ <li>manual testing (regression, UI, and API testing)</li>
 <li>defect reporting, tracking, and verification</li>
  <li>test case planning, and test case designing and maintenance - Agile </li>
 <li>test automation</li>
